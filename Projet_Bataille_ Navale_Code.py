@@ -476,13 +476,3 @@ def jouer():
         joueur_vs_ia()
 
 jouer()
-
-
-  
-
-
-# V) Améliorations
-
-# 1) Ajouter des bateaux en diagonales? (cette idée est pas ouf mais au cas où)
-
-
